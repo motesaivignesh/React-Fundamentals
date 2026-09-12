@@ -1,16 +1,20 @@
-.wel{
-    background-color: rgb(152, 253, 0);
-    font: size 2.5em;
-    color:white;
-    padding:10px;
-    border-radius:5px;
-    margin:0px;
+.container{
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
 }
-.Log{
-    background-color: rgb(253, 30, 0);
-    font: size 2.5em;
-    color:white;
-    padding:10px;
-    border-radius:5px;
-    margin:0px;
+.count-display{
+    font-size:75px;
+    margin-top:0px;
+    margin-bottom:50px;
+}
+.counter-btn{
+    width:150px;
+    height:50px;
+    font-size:20px;
+    font-weight: bold;
+    margin:0px 5px;
+    background-color: aquamarine;
+    border-radius: 5px;
+    border:none;
+    cursor:pointer;
 }

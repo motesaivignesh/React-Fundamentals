@@ -1,9 +1,7 @@
-import Usergreeting from './Usergreeting.jsx'
+import Counter  from "./Counter.jsx";
 function App() {
   return(
-    <>
-    <Usergreeting isLogged={false} username="Vignesh"/>
-    </>
+    <Counter/>
   );
 }
 export default App
